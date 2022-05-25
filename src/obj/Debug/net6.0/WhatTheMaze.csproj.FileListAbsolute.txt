@@ -1,0 +1,15 @@
+C:\Users\akcaa\Desktop\WhatTheMaze\bin\Debug\net6.0\WhatTheMaze.exe
+C:\Users\akcaa\Desktop\WhatTheMaze\bin\Debug\net6.0\WhatTheMaze.deps.json
+C:\Users\akcaa\Desktop\WhatTheMaze\bin\Debug\net6.0\WhatTheMaze.runtimeconfig.json
+C:\Users\akcaa\Desktop\WhatTheMaze\bin\Debug\net6.0\WhatTheMaze.dll
+C:\Users\akcaa\Desktop\WhatTheMaze\bin\Debug\net6.0\WhatTheMaze.pdb
+C:\Users\akcaa\Desktop\WhatTheMaze\obj\Debug\net6.0\WhatTheMaze.csproj.AssemblyReference.cache
+C:\Users\akcaa\Desktop\WhatTheMaze\obj\Debug\net6.0\WhatTheMaze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akcaa\Desktop\WhatTheMaze\obj\Debug\net6.0\WhatTheMaze.AssemblyInfoInputs.cache
+C:\Users\akcaa\Desktop\WhatTheMaze\obj\Debug\net6.0\WhatTheMaze.AssemblyInfo.cs
+C:\Users\akcaa\Desktop\WhatTheMaze\obj\Debug\net6.0\WhatTheMaze.csproj.CoreCompileInputs.cache
+C:\Users\akcaa\Desktop\WhatTheMaze\obj\Debug\net6.0\WhatTheMaze.dll
+C:\Users\akcaa\Desktop\WhatTheMaze\obj\Debug\net6.0\refint\WhatTheMaze.dll
+C:\Users\akcaa\Desktop\WhatTheMaze\obj\Debug\net6.0\WhatTheMaze.pdb
+C:\Users\akcaa\Desktop\WhatTheMaze\obj\Debug\net6.0\WhatTheMaze.genruntimeconfig.cache
+C:\Users\akcaa\Desktop\WhatTheMaze\obj\Debug\net6.0\ref\WhatTheMaze.dll
